@@ -1,7 +1,7 @@
 import Singleton.SumCalculador;
 import java.util.Scanner;
 public class Main {
-       public static void main(String[] args) {
+    public static void main(String[] args) {
         // Obtener una instancia de SumCalculator utilizando el método estático "getInstance"
         SumCalculador calculator = SumCalculador.getInstance();
 
