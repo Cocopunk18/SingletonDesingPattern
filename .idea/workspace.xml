@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0f41ef1-cc35-43f6-bee0-3d15bb47226a" name="Changes" comment="git@github.com:Cocopunk18/SingletonDesingPattern.git" />
+    <list default="true" id="a0f41ef1-cc35-43f6-bee0-3d15bb47226a" name="Changes" comment="Documentación código">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singleton/SumCalculador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/SumCalculador.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-17",
+    "last_opened_file_path": "C:/Users/vivi_/IdeaProjects/PatronInterpreterEmoticon",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694387044124</updated>
       <workItem from="1694387045211" duration="4498000" />
+      <workItem from="1694528644430" duration="5258000" />
     </task>
     <task id="LOCAL-00001" summary="git@github.com:Cocopunk18/SingletonDesingPattern.git">
       <option name="closed" value="true" />
@@ -58,7 +64,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694391016370</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Documentación código">
+      <option name="closed" value="true" />
+      <created>1694528741784</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694528741784</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git@github.com:Cocopunk18/SingletonDesingPattern.git" />
-    <option name="LAST_COMMIT_MESSAGE" value="git@github.com:Cocopunk18/SingletonDesingPattern.git" />
+    <MESSAGE value="Documentación código" />
+    <option name="LAST_COMMIT_MESSAGE" value="Documentación código" />
   </component>
 </project>

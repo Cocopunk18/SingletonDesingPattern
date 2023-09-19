@@ -1,9 +1,9 @@
-import Singleton.SumCalculador;
+import singleton.SumCalculator;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         // Obtener una instancia de SumCalculator utilizando el método estático "getInstance"
-        SumCalculador calculator = SumCalculador.getInstance();
+        SumCalculator calculator = SumCalculator.getInstance();
 
         // Crear un objeto Scanner para leer la entrada del usuario desde la consola
         Scanner scanner = new Scanner(System.in);

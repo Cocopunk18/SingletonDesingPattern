@@ -1,23 +1,23 @@
 // Definir una nueva clase llamada "SumCalculator"
-package Singleton;
-public class SumCalculador {
-        // Declarar una variable estática llamada "instance" de tipo "SumCalculator"
-        private static SumCalculador instance;
+package singleton;
+public class SumCalculator {
+        // variable estática llamada "instance" de tipo "SumCalculator"
+        private static SumCalculator instance = null;
 
-        // Declarar una variable de instancia llamada "sum" para almacenar la suma
+        // variable de instancia llamada "sum" para almacenar la suma
         private int sum;
 
         // Constructor privado que inicializa la suma en cero
-        private SumCalculador() {
+        private SumCalculator() {
             sum = 0;
     }
 
     // Método estático que devuelve una instancia de "SumCalculator" (patrón Singleton)
-    public static SumCalculador getInstance() {
+    public static SumCalculator getInstance() {
         // Verificar si ya existe una instancia
         if (instance == null) {
             // Si no existe, crear una nueva instancia
-            instance = new SumCalculador();
+            instance = new SumCalculator();
         }
         // Devolver la instancia (nueva o existente)
         return instance;
